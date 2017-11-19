@@ -1,8 +1,8 @@
 # The Book of the Runtime
 
-Welcome to the Book of the Runtime \(BOTR\) for the .NET Runtime.   This contains   
+Welcome to the Book of the Runtime \(BOTR\) for the .NET Runtime.   This contains  
 a collection of articles about the non-trivial internals of the .NET Runtime.   Its  
-intended audience are people actually modifying the code or simply wishing to have a   
+intended audience are people actually modifying the code or simply wishing to have a  
 deep understanding of the runtime.
 
 Below is a table of contents.
@@ -27,10 +27,10 @@ Below is a table of contents.
 * [CLR ABI](clr-abi.md)
 * [Cross-platform Minidumps](xplat-minidump-generation.md)
 
-It may be possible that this table is not complete.  You can get a complete list   
+It may be possible that this table is not complete.  You can get a complete list  
 by looking at the directory where all the chapters are stored:
 
-* All Book of the Runtime \(BOTR\) chapters on GitHub
+* [All Book of the Runtime \(BOTR\) chapters on GitHub](https://github.com/dotnet/coreclr/blob/master/Documentation/botr)
 
 
 
